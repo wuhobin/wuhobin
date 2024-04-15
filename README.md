@@ -11,10 +11,13 @@
 [![wuhobin.com](https://img.shields.io/badge/-wuhobin.com-00A98F?&logo=About.me&logoColor=FFFFFF)](https://wuhobin.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin) 
 
+![](https://github-readme-stats.vercel.app/api?username=wuhobin)
+
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite&logoColor=003b57)
