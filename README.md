@@ -8,7 +8,8 @@
 
 ---
 
-[![wuhobin.com](https://img.shields.io/badge/-eterocell.com-00A98F?&logo=About.me&logoColor=FFFFFF)](https://wuhobin.com/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin) 
+[![wuhobin.com](https://img.shields.io/badge/-wuhobin.com-00A98F?&logo=About.me&logoColor=FFFFFF)](https://wuhobin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin) 
 
 ### Languages
 
@@ -20,12 +21,8 @@
 
 ### Working with
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=3ddc84)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=xcode)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-000?&logo=jetpack%20compose&logoColor=4285F4)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000?&logo=swift&logoColor=1E46A4)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=02569B)
-![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=kibana&logoColor=005571)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=3ddc84)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 ### Interest in
 
