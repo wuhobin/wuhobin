@@ -12,7 +12,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin) 
 
 
-
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=wuhobin" >
+</p>
+​
 
 
 ### Languages
