@@ -8,22 +8,19 @@
 
 ---
 
-[![eterocell.com](https://img.shields.io/badge/-eterocell.com-00A98F?&logo=About.me&logoColor=FFFFFF)](https://eterocell.com/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/Eterocell) [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?&logo=GitLab&logoColor=FFFFFF)](https://gitlab.com/Eterocell)
+[![wuhobin.com](https://img.shields.io/badge/-eterocell.com-00A98F?&logo=About.me&logoColor=FFFFFF)](https://wuhobin.com/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin) 
 
 ### Languages
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=0175C2)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite&logoColor=003b57)
 
 ### Working with
 
-![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3ddc84)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=3ddc84)
 ![iOS](https://img.shields.io/badge/-iOS-000?&logo=xcode)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-000?&logo=jetpack%20compose&logoColor=4285F4)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000?&logo=swift&logoColor=1E46A4)
